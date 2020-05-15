@@ -12,4 +12,4 @@ Once you're that far, it's time to start looking at the bigger picture and how t
 That when you take practical javascript. A free, and high quality course that walks you through the process of creating a todo app. You'll review basics.
 I took this course twice, and on the second round I built a flash card app alongside the teacher to practice applying the skills.
 
-By the time you reach the end of that, with a small project in your hand, it's only 3 months later and you'll be ready to tackle whatever concepts interest you. 
+By the time you reach the end of that, with a small project in your hand, it's only 3 months later and you'll be ready to tackle whatever concepts interest you.
