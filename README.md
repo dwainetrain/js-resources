@@ -1,7 +1,6 @@
 Le't start with my guiding principle.
 The hardest won skill in coding is confidence.
-You must make meaningful steps to gaining that confidence.
-The only way to gain confidence in javascript is to solve problems in javascript.
+You must make meaningful steps to gaining that confidence and the way to do that is to solve problems in javascript.
 
 For the beginner I suggest freecodecamp.org and their JavaScript Algorithms and Data Structures Certification.
 This course will probably take you two months if you put in 8-10 hours a week. It is worth every second.
